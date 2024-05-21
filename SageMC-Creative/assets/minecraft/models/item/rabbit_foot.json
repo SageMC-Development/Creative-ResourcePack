@@ -45,7 +45,9 @@
 		{ "predicate": {"custom_model_data":39}, "model": "item/furniture/fnaf_chair"},
 		{ "predicate": {"custom_model_data":40}, "model": "item/furniture/fnaf_wetfloor"},
 		{ "predicate": {"custom_model_data":41}, "model": "item/furniture/fnaf_emergencyexit"},
-		{ "predicate": {"custom_model_data":41}, "model": "item/decorations/fnaf_celebrateposter"}
+		{ "predicate": {"custom_model_data":41}, "model": "item/decorations/fnaf_celebrateposter"},
+		{ "predicate": {"custom_model_data":42}, "model": "item/decorations/efteling_trashcan"}
+		
 
 
 		
