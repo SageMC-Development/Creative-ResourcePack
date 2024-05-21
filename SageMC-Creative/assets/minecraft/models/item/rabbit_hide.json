@@ -1,0 +1,39 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/rabbit_hide"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/trains/vr_backcoat"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/trains/vr_frontcoat"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/trains/sym_vaarder"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/trains/sym_onderplaat"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/trains/dansemacabre_coat"},
+		{ "predicate": {"custom_model_data":6}, "model": "item/trains/dansemacabre_plate"},
+		{ "predicate": {"custom_model_data":7}, "model": "item/trains/baron_front"},
+		{ "predicate": {"custom_model_data":8}, "model": "item/trains/baron_middle"},
+		{ "predicate": {"custom_model_data":9}, "model": "item/trains/baron_back"},
+		{ "predicate": {"custom_model_data":10}, "model": "item/trains/baron_beugels"}
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	]
+}

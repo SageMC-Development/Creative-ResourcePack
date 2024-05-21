@@ -1,0 +1,71 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/rabbit_foot"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/decorations/clock"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/decorations/dansemacabre_vaandel"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/decorations/spookslot_grafsteen_1"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/decorations/spookslot_grafsteen_2"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/decorations/spookslot_grafsteen_3"},
+		{ "predicate": {"custom_model_data":6}, "model": "item/decorations/spookslot_grafsteen_4"},
+		{ "predicate": {"custom_model_data":7}, "model": "item/decorations/spookslot_grafsteen_5"},
+		{ "predicate": {"custom_model_data":8}, "model": "item/decorations/spookslot_rondekamer_duivel"},
+		{ "predicate": {"custom_model_data":9}, "model": "item/decorations/symbolica_muziekmachine"},
+		{ "predicate": {"custom_model_data":10}, "model": "item/decorations/dansemacabre_voorgevel"},
+		{ "predicate": {"custom_model_data":11}, "model": "item/decorations/dansemacabre_voorgevelbroken"},
+		{ "predicate": {"custom_model_data":12}, "model": "item/decorations/spookslot_lantern"},
+		{ "predicate": {"custom_model_data":13}, "model": "item/decorations/spookslot_handen"},
+		{ "predicate": {"custom_model_data":14}, "model": "item/decorations/spookslot_ghost"},
+		{ "predicate": {"custom_model_data":15}, "model": "item/decorations/tot_spookytable"},
+		{ "predicate": {"custom_model_data":16}, "model": "item/decorations/pumpkin1"},
+		{ "predicate": {"custom_model_data":17}, "model": "item/decorations/pumpkin2"},
+		{ "predicate": {"custom_model_data":18}, "model": "item/decorations/pumpkin3"},
+		{ "predicate": {"custom_model_data":19}, "model": "item/decorations/pumpkin4"},
+		{ "predicate": {"custom_model_data":20}, "model": "item/decorations/pumpkin5"},
+		{ "predicate": {"custom_model_data":21}, "model": "item/decorations/pumpkin6"},
+		{ "predicate": {"custom_model_data":22}, "model": "item/decorations/pumpkin7"},
+		{ "predicate": {"custom_model_data":23}, "model": "item/decorations/pumpkin8"},
+		{ "predicate": {"custom_model_data":24}, "model": "item/decorations/pumpkin9"},
+		{ "predicate": {"custom_model_data":25}, "model": "item/decorations/pumpkin10"},
+		{ "predicate": {"custom_model_data":26}, "model": "item/decorations/ghost1"},
+		{ "predicate": {"custom_model_data":27}, "model": "item/decorations/ghost2"},
+		{ "predicate": {"custom_model_data":28}, "model": "item/decorations/curtain"},
+		{ "predicate": {"custom_model_data":29}, "model": "item/decorations/curtainsmall"},
+		{ "predicate": {"custom_model_data":30}, "model": "item/decorations/halloweenpainting"},
+		{ "predicate": {"custom_model_data":31}, "model": "item/decorations/halloweenpainting2"},
+		{ "predicate": {"custom_model_data":32}, "model": "item/decorations/halloweenpainting3"},
+		{ "predicate": {"custom_model_data":33}, "model": "item/decorations/fnaf_hat1"},
+		{ "predicate": {"custom_model_data":34}, "model": "item/decorations/fnaf_hat2"},
+		{ "predicate": {"custom_model_data":35}, "model": "item/decorations/fnaf_hat3"},
+		{ "predicate": {"custom_model_data":36}, "model": "item/decorations/fnaf_hat4"},
+		{ "predicate": {"custom_model_data":37}, "model": "item/decorations/fnaf_stars"},
+		{ "predicate": {"custom_model_data":38}, "model": "item/furniture/fnaf_arcade"},
+		{ "predicate": {"custom_model_data":39}, "model": "item/furniture/fnaf_chair"},
+		{ "predicate": {"custom_model_data":40}, "model": "item/furniture/fnaf_wetfloor"},
+		{ "predicate": {"custom_model_data":41}, "model": "item/furniture/fnaf_emergencyexit"},
+		{ "predicate": {"custom_model_data":41}, "model": "item/decorations/fnaf_celebrateposter"}
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/custom/posters/celebrate",
+		"particle": "block/custom/posters/celebrate"
+	},
+	"elements": [
+		{
+			"from": [-1, 0, 0],
+			"to": [17, 25, 2],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [4.16667, 11.83333, 4.96667, 12.86667], "texture": "#0"},
+				"south": {"uv": [4.16667, 11.83333, 4.96667, 12.86667], "texture": "#0"},
+				"west": {"uv": [4.16667, 11.83333, 4.96667, 12.86667], "texture": "#0"},
+				"up": {"uv": [4.16667, 11.83333, 4.96667, 12.86667], "texture": "#0"},
+				"down": {"uv": [4.16667, 11.83333, 4.96667, 12.86667], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [22, 167, 0],
+			"translation": [1.25, -1, 0],
+			"scale": [0.62, 0.6, 0.64]
+		},
+		"head": {
+			"translation": [0, -3.5, 33.75],
+			"scale": [3, 3, 3]
+		}
+	}
+}
